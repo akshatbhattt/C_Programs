@@ -11,6 +11,6 @@ int main(){
       if(str[i]>=65&&str[i]<=90)
          str[i]=str[i]+32;
    }
-   printf("\nLower Case String is: %s",str);
+   printf("\nLower Case String is- %s",str);
    return 0;
 }
